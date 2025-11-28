@@ -55,12 +55,10 @@ h6,
 }
 
 .item8 {
-  position: relative;
   grid-row: span 2;
 }
 
 .item5 {
-  position: relative;
   grid-column: span 2;
   grid-row: span 2;
 }
@@ -74,5 +72,5 @@ h6,
 }
 
 .item18 {
-  grid-column: span 4 / 9
+  grid-column: span 4 / 9;
 }
